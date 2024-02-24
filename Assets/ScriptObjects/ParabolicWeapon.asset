@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad92fe1f613004448a2a4f3bed44a039, type: 3}
+  m_Name: ParabolicWeapon
+  m_EditorClassIdentifier: 
+  gunsType: 0
+  bulletprefab: {fileID: 4296513245989635672, guid: a432bdd647f5bc04f82769baa0380163, type: 3}
+  firerate: 5
+  Reloadtime: 5
+  Ammunition: 20
+  BulletSpeed: 12
